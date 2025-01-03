@@ -27,7 +27,13 @@
     },
     "is_version_of": {
       "BO": "རྡོ་རྗེ་གཅོད་པ་རྩ་བ་དེབ།"
-    }
+    },
+    "translation_alignments": [
+      {
+        "source": "ICB3EE76B/layers/AE90/Tibetan_Segment-0570.json",
+        "target": "I301D430E/layers/48FB/English_Segment-A6AE.json"
+      }
+    ]
   },
   "bases": [
     {
